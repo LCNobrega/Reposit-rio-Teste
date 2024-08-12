@@ -1,0 +1,37 @@
+body {
+    margin: 0%;
+    background-color: rgba(255, 245, 152, 0.829);
+}
+
+header {
+    text-align: center;   
+    font-family: Varela Round;
+    color: rgb(0, 0, 0);
+    margin-top: 185px;
+}
+
+section {
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.247);
+}
+
+footer {    
+    text-align: center;
+    font-family: Varela Round;
+    color: rgb(1, 2, 1);
+}
+
+#msg {
+    text-align: center;
+    font-family: Varela Round;
+} 
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
